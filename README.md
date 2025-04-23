@@ -42,7 +42,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 
    ```bash
    git clone https://github.com/Ademircordeiro/jornada-milhas.git
-   cd ademir-angular
+   cd jornada-milhas
    ```
 
 2. **Instale as dependências**:
